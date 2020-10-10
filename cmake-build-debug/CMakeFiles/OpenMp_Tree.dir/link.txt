@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++11 -fopenmp -g   CMakeFiles/OpenMp_Tree.dir/main.cpp.o CMakeFiles/OpenMp_Tree.dir/TreeFunctions.cpp.o  -o OpenMp_Tree 

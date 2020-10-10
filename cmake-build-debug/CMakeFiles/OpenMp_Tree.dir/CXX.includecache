@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ggg/CLionProjects/OpenMp_Tree/TreeFunctions.h
+
+/home/ggg/CLionProjects/OpenMp_Tree/main.cpp
+stdio.h
+-
+ctime
+-
+fstream
+-
+omp.h
+-
+math.h
+-
+TreeFunctions.h
+/home/ggg/CLionProjects/OpenMp_Tree/TreeFunctions.h
+
